@@ -14,9 +14,9 @@ Database-Digest aims to provide:
 
 ## 📚 Articles
 
-| Topic                                                       | Description                                                                     | Database Systems | Difficulty   |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------- | ------------ |
-| [Table Partitioning](articles/table-partitioning/README.md) | Learn about table partitioning, its benefits, and when to use it in PostgreSQL. | PostgreSQL       | Intermediate |
+| Topic                                                       | Description                                                                     | Database Systems |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------- |
+| [Table Partitioning](articles/table-partitioning/README.md) | Learn about table partitioning, its benefits, and when to use it in PostgreSQL. | PostgreSQL       |
 
 ## 🚀 Getting Started
 
